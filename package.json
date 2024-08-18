@@ -17,6 +17,7 @@
     "vite-plugin-solid": "^2.10.2"
   },
   "dependencies": {
+    "monaco-editor": "^0.50.0",
     "solid-js": "^1.8.21"
   }
 }
